@@ -1,4 +1,4 @@
-test-repo
+VnV-Project-Prerequisites
 =========
 
 Test description
